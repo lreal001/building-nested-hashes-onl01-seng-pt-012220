@@ -7,7 +7,7 @@ def fourth_challenge
       :hero_friends => [
         :benvolio => {[name: "Benvolio" , age: "17", attitude: "worried"]}, :mercutio => [name: "Mercutio", age: "18" , attitude: "hot-headed"] 
         #your hashes here!
-      ]
+   ]
    }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
