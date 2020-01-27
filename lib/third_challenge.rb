@@ -18,8 +18,8 @@ def third_challenge
             age : "15"
             status : "alive"
         #your key/value pairs here
-        
-      :hero_friends => []},
+        },
+      :hero_friends => []
    }, 
    :capulet => {
        :patriarch => {
